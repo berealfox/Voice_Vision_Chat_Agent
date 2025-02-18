@@ -19,7 +19,7 @@ The AI-Powered Voice and Vision Chatbot aims to bridge communication gaps in hea
 
 ## Workflow
 
-![Workflow Diagram]()
+![Workflow Diagram](https://github.com/oms0401/vision_and_voice_chatbot/blob/4cf3798784b4a5ce9ebd39a2207a8067e61891e8/workflow.png)
 
 ## Getting Started
 
