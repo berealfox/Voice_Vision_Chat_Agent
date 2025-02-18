@@ -70,7 +70,7 @@ The AI-Powered Voice and Vision Chatbot aims to bridge communication gaps in hea
 After completing the installation steps:
 
 ```bash
-python app.py
+python gradio_app.py
 ```
 
 Open your browser and navigate to `http://localhost:7860` to interact with the chatbot.
