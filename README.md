@@ -19,7 +19,7 @@ The AI-Powered Voice and Vision Chatbot aims to bridge communication gaps in hea
 
 ## Workflow
 
-![Workflow Diagram](https://github.com/berealfox/Voice_Vision_Chat_Agent/workflow.png)
+![Workflow Diagram](https://github.com/berealfox/Voice_Vision_Chat_Agent/blob/main/workflow.png)
 
 ## Getting Started
 
@@ -33,7 +33,7 @@ The AI-Powered Voice and Vision Chatbot aims to bridge communication gaps in hea
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/oms0401/vision_and_voice_chatbot.git
+   git clone https://github.com/berealfox/Voice_Vision_Chat_Agent.git
    cd vision_and_voice_chatbot
    ```
 
